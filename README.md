@@ -11,3 +11,8 @@ Routes:
 Get All Products: https://fakestoreapi.com/products
 Get Specific Product BY ID: https://fakestoreapi.com/products/<id>
 
+License
+=============
+https://github.com/keikaavousi/fake-store-api/blob/master/LICENSE
+
+
